@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+}
+
+.slider{
+	width: 100%;
+	height:100%;
+	background-size: cover;
+	animation: slider 12s infinite alternate;
+}
+
+@keyframes slider {
+	0% {background-image: url('file://xampp/htdocs/proyecto/img/amistad.jpg');}
+	20% {background-image: url('file://xampp/htdocs/proyecto/img/amistad.jpg');}
+
+	25% {background-image: url(../img/caserole.jpg);}
+	45% {background-image: url(../img/caserole.jpg);}
+
+	50% {background-image: url(../img/horario.jpg);}
+	70% {background-image: url(../img/horario.jpg);}
+
+	75% {background-image: url(../img/icep.png);}
+	95% {background-image: url(../img/icep.png);}
+
+}

@@ -1,0 +1,23 @@
+#class {
+	justify-content: center;
+	flex-wrap: wrap;
+	display: flex;
+}
+
+
+/*horario.php
+
+*/
+#panel{
+	justify-content: center;
+	flex-wrap: wrap;
+	display: flex;
+}
+
+/*materia.php*/
+
+#materia {
+	justify-content: center;
+	flex-wrap: wrap;
+	display: flex;
+}
